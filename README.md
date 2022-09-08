@@ -50,6 +50,6 @@ response = client.get('https://shifter.io/', params ={
 })
 ```
 
-For a better understanding of the parameters, please check out [our documentation](https://developers.shifter.io/)
+For a better understanding of the parameters, please check out [our documentation](http://shifter.gitbook.io/)
 
 
