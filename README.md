@@ -1,6 +1,6 @@
-# Shifter's WebScrapingApi Python SDK
+# Shifter's WebScraping Python SDK
 
-Shifter WebScrapingApi is an API that allows scraping websites while using rotating proxies to prevent bans. This SDK for Python makes the usage of the API easier to implement in any project you have.
+Shifter Web Scraping is an API that allows scraping websites while using rotating proxies to prevent bans. This SDK for Python makes the usage of the API easier to implement in any project you have.
 
 ## Installation
 
